@@ -1,6 +1,4 @@
-🔭 I’m currently working on AI defect detection for the semiconductor industry.  Located in Kaohsiung, Taiwan. 
-
-I speak English and Mandarin Chinese.
+🔭 I’m currently working on AI defect detection for the semiconductor industry.  nazar-ai.com  Located in Kaohsiung, Taiwan. 
 
 <!--
 **ryanalexmartin/ryanalexmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
