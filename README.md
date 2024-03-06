@@ -1,8 +1,5 @@
 🔭 I’m currently working on AI defect detection for the semiconductor industry.  nazar-ai.com  Located in Kaohsiung, Taiwan. 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <!--
 **ryanalexmartin/ryanalexmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
